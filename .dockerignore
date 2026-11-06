@@ -1,0 +1,9 @@
+*
+!requirements.txt
+!setup.py
+!verify_weights.py
+!bspnet/
+!bspnet/*.py
+!bspnet/*.pyx
+!tests/
+!tests/*.py

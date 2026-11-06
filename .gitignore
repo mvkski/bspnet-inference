@@ -1,0 +1,10 @@
+weights/
+results/
+.venv/
+__pycache__/
+*.pyc
+*.so
+build/
+*.egg-info/
+bspnet/bspt.c
+.cache/
